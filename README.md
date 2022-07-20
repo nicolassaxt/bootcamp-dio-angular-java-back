@@ -1,8 +1,6 @@
-# Back-End para Mentoria Bootcamp DIO
+# Back-End da Mentoria Bootcamp DIO
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#/https://github.com/wilmarques/bootcamp-dio-angular-java-back)
-
-> Aplicação pronta na branch `ready`: <https://github.com/wilmarques/bootcamp-dio-angular-java-back/tree/ready>.
+> Aplicação de referencia: <https://github.com/wilmarques/bootcamp-dio-angular-java-back/tree/ready>.
 
 ## Consumindo APIs a partir de front-end Angular com um back-end Java
 
